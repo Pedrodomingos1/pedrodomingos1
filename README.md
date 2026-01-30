@@ -1,11 +1,11 @@
 # ⚔️ Saudações, sou Pedro Domingos
 
 ### 🎓 Acadêmico de Ciência da Computação | Desenvolvedor Backend
-Sou um entusiasta da tecnologia baseado em João Pessoa, focado em transformar dados brutos em inteligência estratégica. Atualmente, dedico meus esforços ao desenvolvimento de sistemas de automação e análise de dados utilizando Python.
+Prática em Python & SQL: Desenvolvo automações (como pipelines de extração de dados e bots de inteligência) que buscam simplificar processos complexos.
 
 ---
 ### ⚔️ Arsenal Tecnológico
-[![Minhas Habilidades](https://skillicons.dev/icons?i=py,c,mysql,php,html,css,git,selenium,linux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=py,c,mysql,php,html,css,git,selenium,)](https://skillicons.dev)
 
 ---
 
@@ -16,9 +16,6 @@ Sou um entusiasta da tecnologia baseado em João Pessoa, focado em transformar d
 - **E-commerce Backend**: 
   Desenvolvimento de sistema de gestão para varejo utilizando PHP e MySQL para processamento de transações.
 
----
-
-### 📊 Estatísticas de Batalha
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrodomingos1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
