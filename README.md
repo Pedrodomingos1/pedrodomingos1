@@ -1,4 +1,4 @@
-# ⚔️ Saudações, sou Pedro Domingos
+
 
 ### 🎓 Acadêmico de Ciência da Computação | Desenvolvedor Backend
 Prática em Python & SQL: Desenvolvo automações (como pipelines de extração de dados e bots de inteligência) que buscam simplificar processos complexos.
@@ -25,5 +25,5 @@ Prática em Python & SQL: Desenvolvo automações (como pipelines de extração 
 ---
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
+[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI](https://www.linkedin.com/in/pedro-domingos-ab669a3a9/))
 [![Letterboxd](https://img.shields.io/badge/letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/pwdrox/)
