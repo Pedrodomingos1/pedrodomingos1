@@ -9,13 +9,6 @@ Prática em Python & SQL: Desenvolvo automações (como pipelines de extração 
 
 ---
 
-### 🏹 Conquistas Recentes (Projetos em Destaque)
-
-- **[Dossiê de Inteligência Esportiva](https://github.com/Pedrodomingos1/dossie-inteligencia-esportiva)**: 
-  Sistema de Web Scraping de alta performance que extrai KPIs (escanteios, gols, retrospectos) do Flashscore/Sofascore e entrega relatórios via Telegram.
-- **E-commerce Backend**: 
-  Desenvolvimento de sistema de gestão para varejo utilizando PHP e MySQL para processamento de transações.
-
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrodomingos1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
