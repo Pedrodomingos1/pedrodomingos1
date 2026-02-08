@@ -20,7 +20,7 @@
 Estou sempre aberto a novas conexões e oportunidades para aplicar minha expertise em automação e desenvolvimento.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-domingos-ab669a3a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/5581995590525" target="_blank">
